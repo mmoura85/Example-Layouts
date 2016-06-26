@@ -1,0 +1,23 @@
+html body {
+    font-size: 13px;
+    color: #474747;
+    margin: 0px; /* get rid of default spacing on the edges */
+    padding: 0px; /* get rid of default spacing on the edges */
+    border: 0px; /* get rid of that 2px window border in Internet Explorer 6 */
+    outline: 0px;
+    height: 100%; /* fill the height of the browser */
+    width: 100%;
+    background-color: #edeff1;
+}
+
+#wrapper{
+
+}
+
+#center-content{
+
+}
+
+#content-area{ bn
+
+} 

@@ -1,0 +1,21 @@
+{
+  "name": "Michael Moura",
+  "authors": [
+    "Michael Moura <mmoura@live.com.au>"
+  ],
+  "description": "concept webportal",
+  "main": "",
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "^1.5.6",
+    "angular-ui-router": "ui-router#^0.3.1"
+  }
+}
